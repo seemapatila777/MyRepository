@@ -2,7 +2,7 @@
 public class Ifelse {
 	public static void main(String[] args) {
 		
-		int a=56;
+		int a=75;
 		
 		if(a<=50) {
 			System.out.println("Grade: C");
